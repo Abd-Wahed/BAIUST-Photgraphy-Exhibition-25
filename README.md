@@ -1,6 +1,6 @@
 # BAIUST Photography Exhibition '25 
 
-** Live Demo:** [View the Exhibition Site Here]((https://abd-wahed.github.io/BAIUST-Photgraphy-Exhibition-25/)) 
+** Live Demo:** https://abd-wahed.github.io/BAIUST-Photgraphy-Exhibition-25/
 
 Welcome to the repository for the BAIUST Photography Exhibition 2025! This project serves as the front-end landing page and digital gallery for the event, showcasing event details and featured photographs.
 
